@@ -1,0 +1,44 @@
+{
+    "tranmapData": [
+        {
+            "name": "北二环路",
+            "value":  0
+        },
+        {
+            "name": "韶山中路",
+            "value":  0
+        },
+        {
+            "name": "韶山东路",
+            "value":  0
+        },
+        {
+            "name": "建设北路",
+            "value":  0
+        },
+        {
+            "name": "建设中路",
+            "value":  0
+        },
+        {
+            "name": "建设南路",
+            "value":  0
+        },
+        {
+            "name": "桃李路",
+            "value":  0
+        },
+        {
+            "name": "沪昆高速",
+            "value":  0
+        },
+        {
+            "name": "韶山西路",
+            "value":  0
+        },
+        {
+            "name": "芙蓉大道",
+            "value":  0
+        }
+    ]
+}

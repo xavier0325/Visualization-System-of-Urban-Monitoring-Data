@@ -1,0 +1,1306 @@
+{
+	"projectNum": 4,
+	"projectArea": 666,
+	"consumptionTotal": 10,
+	"rateEnergySaving": 5,
+	"projects": {
+		"points": [
+			{
+				"project_name": "能源改造",
+				"building_name": "湘潭综合保税区",
+				"project_addr": "湘潭市雨湖区和平街道保税路1号",
+				"building_struct": "工业园",
+				"start_day": "2021-1-1",
+				"invest_sum": "666",
+				"transform_eySaving": "66",
+				"building_func": "工业",
+				"building_areaTotal": "255",
+				"floor_areaTotal": "255",
+				"end_day": "2022-1-1",
+				"use_day": "2022-4-1",
+				"contract_eyUsed": "是",
+				"rate_eyTransform": "10%",
+				"lng": 112.914469,
+				"lat": 27.960852,
+				"img_url": "https://img1.baidu.com/it/u=2026073611,3895545413&fm=253&fmt=auto&app=138&f=JPEG?w=499&h=238",
+				"power_before": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"power_after": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"type": 1
+			},
+			{
+				"project_name": "能源改造",
+				"building_name": "建通国际综合物流园",
+				"project_addr": "湘潭市岳塘区荷塘街道团山铺街8号",
+				"building_struct": "物流园",
+				"start_day": "2021-1-1",
+				"invest_sum": "666",
+				"transform_eySaving": "66",
+				"building_func": "商业",
+				"building_areaTotal": "255",
+				"floor_areaTotal": "255",
+				"end_day": "2022-1-1",
+				"use_day": "2022-4-1",
+				"contract_eyUsed": "是",
+				"rate_eyTransform": "10%",
+				"lng": 112.997701,
+				"lat": 27.903801,
+				"img_url": "https://img2.baidu.com/it/u=1248144430,257063091&fm=253&fmt=auto&app=138&f=JPEG?w=461&h=295",
+				"power_before": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"power_after": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"type": 2
+			},
+			{
+				"project_name": "能源改造",
+				"building_name": "湘潭柏屹产业园",
+				"project_addr": "湘潭县株洲大道辅道湘潭柏屹产业园",
+				"building_struct": "工业园",
+				"start_day": "2021-1-1",
+				"invest_sum": "666",
+				"transform_eySaving": "66",
+				"building_func": "工业",
+				"building_areaTotal": "255",
+				"floor_areaTotal": "255",
+				"end_day": "2022-1-1",
+				"use_day": "2022-4-1",
+				"contract_eyUsed": "是",
+				"rate_eyTransform": "10%",
+				"lng": 113.021952,
+				"lat": 27.790764,
+				"img_url": "https://img0.baidu.com/it/u=1829729570,2995072315&fm=253&fmt=auto&app=138&f=JPEG?w=640&h=452",
+				"power_before": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"power_after": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"type": 3
+			},
+			{
+				"project_name": "能源改造",
+				"building_name": "威胜电气产业园",
+				"project_addr": "湘潭市雨湖区白石东路28号",
+				"building_struct": "工业园",
+				"start_day": "2021-1-1",
+				"invest_sum": "666",
+				"transform_eySaving": "66",
+				"building_func": "工业",
+				"building_areaTotal": "255",
+				"floor_areaTotal": "255",
+				"end_day": "2022-1-1",
+				"use_day": "2022-4-1",
+				"contract_eyUsed": "是",
+				"rate_eyTransform": "10%",
+				"lng": 112.925105,
+				"lat": 27.945765,
+				"img_url": "https://img2.baidu.com/it/u=3006806360,1666673589&fm=253&fmt=auto&app=138&f=JPEG?w=750&h=500",
+				"power_before": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"power_after": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"type": 4
+			},
+			{
+				"project_name": "能源改造",
+				"building_name": "湘潭国家高新区科技企业加速器",
+				"project_addr": "湘潭市岳塘区创业路与高新路交叉路口往北约230米",
+				"building_struct": "工业园",
+				"start_day": "2021-1-1",
+				"invest_sum": "666",
+				"transform_eySaving": "66",
+				"building_func": "工业",
+				"building_areaTotal": "255",
+				"floor_areaTotal": "255",
+				"end_day": "2022-1-1",
+				"use_day": "2022-4-1",
+				"contract_eyUsed": "是",
+				"rate_eyTransform": "10%",
+				"lng": 112.976432,
+				"lat": 27.847493,
+				"img_url": "https://img1.baidu.com/it/u=490532924,1488090221&fm=253&fmt=auto&app=138&f=JPG?w=500&h=337",
+				"power_before": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"power_after": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"type": 1
+			},
+			{
+				"project_name": "能源改造",
+				"building_name": "中部国际机械物流园",
+				"project_addr": "湘潭市岳塘区107国道附近",
+				"building_struct": "物流园",
+				"start_day": "2021-1-1",
+				"invest_sum": "666",
+				"transform_eySaving": "66",
+				"building_func": "商业",
+				"building_areaTotal": "255",
+				"floor_areaTotal": "255",
+				"end_day": "2022-1-1",
+				"use_day": "2022-4-1",
+				"contract_eyUsed": "是",
+				"rate_eyTransform": "10%",
+				"lng": 112.998053,
+				"lat": 27.900279,
+				"img_url": "https://img1.baidu.com/it/u=3308093218,2276241227&fm=253&fmt=auto&app=138&f=JPEG?w=720&h=401",
+				"power_before": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"power_after": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"type": 4
+			},
+			{
+				"project_name": "能源改造",
+				"building_name": "九华创新创业中心",
+				"project_addr": "湘潭市雨湖区东风路与雅爱路交叉路口往东约100米",
+				"building_struct": "工业园",
+				"start_day": "2021-1-1",
+				"invest_sum": "666",
+				"transform_eySaving": "66",
+				"building_func": "工业",
+				"building_areaTotal": "255",
+				"floor_areaTotal": "255",
+				"end_day": "2022-1-1",
+				"use_day": "2022-4-1",
+				"contract_eyUsed": "是",
+				"rate_eyTransform": "10%",
+				"lng": 112.919325,
+				"lat": 27.928628,
+				"img_url": "https://img2.baidu.com/it/u=2982837439,980940409&fm=253&fmt=auto&app=138&f=JPEG?w=439&h=500",
+				"power_before": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"power_after": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"type": 4
+			},
+			{
+				"project_name": "能源改造",
+				"building_name": "湖南农机产业园",
+				"project_addr": "湘潭市雨湖区白石西路与江南大道北段交汇处西北侧",
+				"building_struct": "工业园",
+				"start_day": "2021-1-1",
+				"invest_sum": "666",
+				"transform_eySaving": "66",
+				"building_func": "工业",
+				"building_areaTotal": "255",
+				"floor_areaTotal": "255",
+				"end_day": "2022-1-1",
+				"use_day": "2022-4-1",
+				"contract_eyUsed": "是",
+				"rate_eyTransform": "10%",
+				"lng": 112.929681,
+				"lat": 27.944277,
+				"img_url": "https://img0.baidu.com/it/u=252225050,618172507&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=375",
+				"power_before": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"power_after": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"type": 2
+			},
+			{
+				"project_name": "能源改造",
+				"building_name": "京湘节能科技园",
+				"project_addr": "湘潭市岳塘区高新路南50米",
+				"building_struct": "工业园",
+				"start_day": "2021-1-1",
+				"invest_sum": "666",
+				"transform_eySaving": "66",
+				"building_func": "工业",
+				"building_areaTotal": "255",
+				"floor_areaTotal": "255",
+				"end_day": "2022-1-1",
+				"use_day": "2022-4-1",
+				"contract_eyUsed": "是",
+				"rate_eyTransform": "10%",
+				"lng": 112.984835,
+				"lat": 27.843518,
+				"img_url": "https://img1.baidu.com/it/u=3256765403,3567865004&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=324",
+				"power_before": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"power_after": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"type": 1
+			},
+			{
+				"project_name": "能源改造",
+				"building_name": "湖南湘钢洪盛仓储物流园",
+				"project_addr": "湘潭市高新区双马街道车站南路23号",
+				"building_struct": "物流园",
+				"start_day": "2021-1-1",
+				"invest_sum": "666",
+				"transform_eySaving": "66",
+				"building_func": "商业",
+				"building_areaTotal": "255",
+				"floor_areaTotal": "255",
+				"end_day": "2022-1-1",
+				"use_day": "2022-4-1",
+				"contract_eyUsed": "是",
+				"rate_eyTransform": "10%",
+				"lng": 112.995041,
+				"lat": 27.854757,
+				"img_url": "https://img2.baidu.com/it/u=1940800644,4047018091&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=375",
+				"power_before": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"power_after": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"type": 2
+			},
+			{
+				"project_name": "能源改造",
+				"building_name": "湘潭县青年创业孵化基地",
+				"project_addr": "荷花南路与黄莺路交叉口北200米",
+				"building_struct": "工业园",
+				"start_day": "2021-1-1",
+				"invest_sum": "666",
+				"transform_eySaving": "66",
+				"building_func": "工业",
+				"building_areaTotal": "255",
+				"floor_areaTotal": "255",
+				"end_day": "2022-1-1",
+				"use_day": "2022-4-1",
+				"contract_eyUsed": "是",
+				"rate_eyTransform": "10%",
+				"lng": 112.965779,
+				"lat": 27.758597,
+				"img_url": "https://img1.baidu.com/it/u=3350804611,2165732640&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=331",
+				"power_before": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"power_after": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"type": 3
+			},
+			{
+				"project_name": "能源改造",
+				"building_name": "湘潭国家火炬创新创业园",
+				"project_addr": "湘潭市岳塘区双拥南路与晓塘路交叉口",
+				"building_struct": "工业园",
+				"start_day": "2021-1-1",
+				"invest_sum": "666",
+				"transform_eySaving": "66",
+				"building_func": "工业",
+				"building_areaTotal": "255",
+				"floor_areaTotal": "255",
+				"end_day": "2022-1-1",
+				"use_day": "2022-4-1",
+				"contract_eyUsed": "是",
+				"rate_eyTransform": "10%",
+				"lng": 112.95321,
+				"lat": 27.828808,
+				"img_url": "https://img0.baidu.com/it/u=2730935034,2898355623&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=334",
+				"power_before": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"power_after": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"type": 4
+			},
+			{
+				"project_name": "能源改造",
+				"building_name": "湘潭九华经济技术开发区九华大楼",
+				"project_addr": "开源路与莲城大道交叉口",
+				"building_struct": "工业园",
+				"start_day": "2021-1-1",
+				"invest_sum": "666",
+				"transform_eySaving": "66",
+				"building_func": "工业",
+				"building_areaTotal": "255",
+				"floor_areaTotal": "255",
+				"end_day": "2022-1-1",
+				"use_day": "2022-4-1",
+				"contract_eyUsed": "是",
+				"rate_eyTransform": "10%",
+				"lng": 112.951737,
+				"lat": 27.929792,
+				"img_url": "https://img0.baidu.com/it/u=2891790512,1943095427&fm=26&fmt=auto",
+				"power_before": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"power_after": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"type": 1
+			},
+			{
+				"project_name": "能源改造",
+				"building_name": "湘潭大学",
+				"project_addr": "湘潭市雨湖区北二环",
+				"building_struct": "学校",
+				"start_day": "2021-1-1",
+				"invest_sum": "666",
+				"transform_eySaving": "66",
+				"building_func": "教育",
+				"building_areaTotal": "255",
+				"floor_areaTotal": "255",
+				"end_day": "2022-1-1",
+				"use_day": "2022-4-1",
+				"contract_eyUsed": "是",
+				"rate_eyTransform": "10%",
+				"lng": 112.870634,
+				"lat": 27.887929,
+				"img_url": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg3.chazidian.com%2F6141bd52d6f1b.jpeg&refer=http%3A%2F%2Fimg3.chazidian.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1648910518&t=64a121da3f7ee15af1de737326db9b3e",
+				"power_before": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"power_after": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"type": 4
+			},
+			{
+				"project_name": "能源改造",
+				"building_name": "湘潭德国工业园",
+				"project_addr": "湘潭市岳塘区格林路1号",
+				"building_struct": "工业园",
+				"start_day": "2021-1-1",
+				"invest_sum": "666",
+				"transform_eySaving": "66",
+				"building_func": "工业",
+				"building_areaTotal": "255",
+				"floor_areaTotal": "255",
+				"end_day": "2022-1-1",
+				"use_day": "2022-4-1",
+				"contract_eyUsed": "是",
+				"rate_eyTransform": "10%",
+				"lng": 112.961855,
+				"lat": 27.826859,
+				"img_url": "https://img0.baidu.com/it/u=62794518,3076949179&fm=253&fmt=auto&app=138&f=JPEG?w=550&h=365",
+				"power_before": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"power_after": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"type": 1
+			},
+			{
+				"project_name": "能源改造",
+				"building_name": "沃森科技(湘潭)工业园",
+				"project_addr": "湘潭市岳塘区高新区创新路36号",
+				"building_struct": "工业园",
+				"start_day": "2021-1-1",
+				"invest_sum": "666",
+				"transform_eySaving": "66",
+				"building_func": "工业",
+				"building_areaTotal": "255",
+				"floor_areaTotal": "255",
+				"end_day": "2022-1-1",
+				"use_day": "2022-4-1",
+				"contract_eyUsed": "是",
+				"rate_eyTransform": "10%",
+				"lng": 112.982886,
+				"lat": 27.842542,
+				"img_url": "http://nwzimg.wezhan.cn/contents/sitefiles2018/10090025/images/15147274.jpg",
+				"power_before": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"power_after": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"type": 2
+			},
+			{
+				"project_name": "能源改造",
+				"building_name": "湖南(湘潭)大学生科技创业园",
+				"project_addr": "湘潭市岳塘区书院东路38号",
+				"building_struct": "工业园",
+				"start_day": "2021-1-1",
+				"invest_sum": "666",
+				"transform_eySaving": "66",
+				"building_func": "工业",
+				"building_areaTotal": "255",
+				"floor_areaTotal": "255",
+				"end_day": "2022-1-1",
+				"use_day": "2022-4-1",
+				"contract_eyUsed": "是",
+				"rate_eyTransform": "10%",
+				"lng": 112.953355,
+				"lat": 27.82133,
+				"img_url": "https://img0.baidu.com/it/u=1229816820,2921233964&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=370",
+				"power_before": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"power_after": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"type": 3
+			},
+			{
+				"project_name": "能源改造",
+				"building_name": "汉源创业广场",
+				"project_addr": "湘潭市湘潭县荷花南路299号",
+				"building_struct": "工业园",
+				"start_day": "2021-1-1",
+				"invest_sum": "666",
+				"transform_eySaving": "66",
+				"building_func": "工业",
+				"building_areaTotal": "255",
+				"floor_areaTotal": "255",
+				"end_day": "2022-1-1",
+				"use_day": "2022-4-1",
+				"contract_eyUsed": "是",
+				"rate_eyTransform": "10%",
+				"lng": 112.967449,
+				"lat": 27.768776,
+				"img_url": "https://img0.baidu.com/it/u=966523855,33325941&fm=253&fmt=auto&app=138&f=JPEG?w=667&h=500",
+				"power_before": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"power_after": [
+					{
+						"value": 1048,
+						"name": "原煤"
+					},
+					{
+						"value": 735,
+						"name": "型煤"
+					},
+					{
+						"value": 580,
+						"name": "焦炭"
+					},
+					{
+						"value": 484,
+						"name": "天然气"
+					},
+					{
+						"value": 300,
+						"name": "原油"
+					},
+					{
+						"value": 666,
+						"name": "电力"
+					}
+				],
+				"type": 4
+			}
+		]
+	}
+}

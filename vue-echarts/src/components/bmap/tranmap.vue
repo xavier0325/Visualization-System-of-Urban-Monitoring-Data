@@ -118,8 +118,8 @@ export default {
     });
     var ctrOverView = new BMap.OverviewMapControl({
       //缩略图控件
-      anchor: BMAP_ANCHOR_TOP_RIGHT,
-      offset: new BMap.Size(10, 500),
+      anchor: BMAP_ANCHOR_BOTTOM_RIGHT,
+      offset: new BMap.Size(10, 10),
       isOpen: true,
     });
     map.addControl(ctrTraffic);
@@ -138,7 +138,7 @@ export default {
       onSearchComplete: function (AutocompleteResult) {
         // console.log(ac.getResults())
         // console.log(AutocompleteResult);
-        var arr = AutocompleteResult.Cr;
+        var arr = AutocompleteResult.Ir;
         var temp = [];
         _this.searchList.splice(0, _this.searchList.length);
         for (var i = 0; i < arr.length; i++) {
@@ -198,6 +198,7 @@ export default {
     common.getById(tipBox).addEventListener("click", function (e) {
       //通过提示列表点击检索
       myValue = e.target.innerText;
+      _this.searchWord = e.target.innerText;
       setPlace();
       _this.searchList.splice(0, _this.searchList.length);
     });

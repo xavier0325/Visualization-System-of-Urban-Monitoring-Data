@@ -315,7 +315,8 @@ export default {
 <style scoped>
 #rtmContainer {
   width: 100%;
-  height: 593px;
+  height: 600px;
+  align-self: center;
 }
 
 #rtmContainer > div {

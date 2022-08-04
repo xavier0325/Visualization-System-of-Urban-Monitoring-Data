@@ -11,7 +11,7 @@
           <realTimePeople :rtPeopleData="rtPeopleData"></realTimePeople>
         </div>
       </div>
-      <div class="left_box" style="display: flex">
+      <div class="left_box" style="display: flex;justify-content: space-between;">
         <div
           class="border"
           style="flex: 1; height: 98px; max-width: 110px; min-width: 90px"
@@ -166,7 +166,9 @@ export default {
 
 #page .col {
   flex: 3;
-
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
   /* background: rgba(149,162,255,0.1); */
   /* border: 2px solid #fff; */
 }
@@ -213,10 +215,10 @@ export default {
   height: 40%;
 }
 
-.left_box:nth-child(3),
+/* .left_box:nth-child(3),
 .right_box:nth-child(3) {
   height: 15%;
-}
+} */
 
 #center_box {
   width: 90%;
@@ -226,6 +228,7 @@ export default {
   margin: 10% auto;
   color: #fff;
   box-shadow: 0 0 10px rgba(149, 162, 255, 0.5);
+  display: flex;
 }
 
 .right_box {
